@@ -3,14 +3,17 @@
 <!--
 **BrvAlexis/BrvAlexis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me
+
+Hello! 👋 I'm Alexis, a passionate web developer currently studying web development. I specialize in Ruby on Rails and enjoy building web applications that make a positive impact. 
+
+- 🌱 I'm currently learning various programming languages and technologies.
+- 💼 Looking for internship opportunities in web development.
+- 📫 You can reach me at "brevieralexis@gmail.com".
+
+
+## Contact
+
+If you have any questions or would like to collaborate, feel free to reach out to me at brevieralexis@gmail.com or connect with me on www.linkedin.com/in/alexis-brevier-5a10b9249 .
