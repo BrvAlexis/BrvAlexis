@@ -1,4 +1,4 @@
-![Banner](https://github.com/BrvAlexis/BrvAlexis/blob/main/Banner.jpeg)
+
 
 <h1 align="center">Hi 👋, I'm Brevier Alexis</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
