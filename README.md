@@ -1,4 +1,5 @@
-!Banner https://github.com/BrvAlexis/BrvAlexis/blob/main/Banner.jpeg
+![Banner](https://github.com/BrvAlexis/BrvAlexis/blob/main/Banner.jpeg)
+
 <h1 align="center">Hi 👋, I'm Brevier Alexis</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1732752000&v=beta&t=pcnmZ4S51dRtT7pDbYQwLgM6VGq1I68qnVC9tCwNGaw">
