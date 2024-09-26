@@ -1,6 +1,7 @@
 ### Hi, I'm Alexis Brevier 👋
 !Gmail
-!LinkedIn
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falexbrv-31devweb%2F)
+
 
 
 ## About Me
