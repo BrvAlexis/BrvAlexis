@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **mapetiteentreprise**
 
-- 👨‍💻 All of my projects are available at alexisbrevier.dev
+- 👨‍💻 All of my projects are available at .[alexisbrevier.dev](https://www.alexisbrevier.dev).
 
 - 📫 How to reach me **brevieralexis@gmail.com**
 
